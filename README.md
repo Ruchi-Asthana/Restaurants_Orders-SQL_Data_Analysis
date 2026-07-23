@@ -72,7 +72,7 @@ Customer Behaviour:
 * Customers with above-average order frequency represent strong retention opportunities.
   
 Payment Trends:
-* Debit Card emerged as the most preferred payment method, guiding future payment gateway optimizations.
+* 'Debit Card' emerged as the most preferred payment method, guiding future payment gateway optimizations.
   
 Order Patterns:
 * Categorizing orders revealed the distribution of low, medium and high-value purchases.
