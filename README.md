@@ -61,4 +61,28 @@ The following SQL-driven insights were delivered to the client:
 
 ## Key Insights and Finding:
 
+Revenue & Restaurant Performance:
+* Certain restaurants consistently generated higher revenue due to strong customer loyalty or high average order values.
+* City-wise revenue differences highlighted regional demand patterns.
+* Month-wise revenue trends helped identify seasonal peaks and dips.
+Customer Behavior
+* A small group of customers contributed significantly to total spending.
+* Several customers had never placed an order, indicating potential onboarding or marketing gaps.
+* Customers with above-average order frequency represent strong retention opportunities.
+Payment Trends
+* One payment method emerged as the most preferred, guiding future payment gateway optimizations.
+Order Patterns
+* Categorizing orders revealed the distribution of low, medium, and high-value purchases.
+* Running totals and rankings helped visualize business growth and competitive positioning.
+
+## Conclusion
+
+This project provides a comprehensive analytical foundation for understanding customer behavior, restaurant performance, and order trends. The insights generated can directly support:
+* Marketing campaigns
+* Customer retention strategies
+* Restaurant partnerships
+* Operational improvements
+* Revenue optimization
+  
+The SQL analysis ensures accuracy, scalability, and clarity — making it easy to extend or integrate into future data initiatives.
 
