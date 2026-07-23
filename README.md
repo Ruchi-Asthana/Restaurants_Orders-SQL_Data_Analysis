@@ -62,17 +62,18 @@ The following SQL-driven insights were delivered to the client:
 ## Key Insights and Finding:
 
 Revenue & Restaurant Performance:
-* Certain restaurants consistently generated higher revenue due to strong customer loyalty or high average order values.
-* City-wise revenue differences highlighted regional demand patterns.
+* 'Tandoori Nights' emerged as the highest revenue generating restaurant. Certain restaurants consistently generated higher revenue due to strong customer loyalty or high average order values.
+* City-wise differences in Order Volume highlighted regional demand patterns.
 * Month-wise revenue trends helped identify seasonal peaks and dips.
 
 Customer Behaviour:
 * A small group of customers contributed significantly to total spending.
-* Several customers had never placed an order, indicating potential onboarding or marketing gaps.
+* There are NO customers who have never placed an order, i.e., every customer has placed an order at least once indicating high success rates in onboarding and marketing.
 * Customers with above-average order frequency represent strong retention opportunities.
   
 Payment Trends:
-* One payment method emerged as the most preferred, guiding future payment gateway optimizations.
+* Debit Card emerged as the most preferred payment method, guiding future payment gateway optimizations.
+  
 Order Patterns:
 * Categorizing orders revealed the distribution of low, medium and high-value purchases.
 * Running totals and rankings helped visualize business growth and competitive positioning.
