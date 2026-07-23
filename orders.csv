@@ -1,0 +1,201 @@
+order_id,customer_id,restaurant_id,order_date,order_amount,payment_method,order_status
+1,39,2,24-02-2025,938,Debit Card,Cancelled
+2,17,9,09-03-2025,173,UPI,Cancelled
+3,42,6,09-04-2025,378,Credit Card,Cancelled
+4,30,1,21-01-2025,689,Cash,Completed
+5,41,5,22-04-2025,1189,Cash,Completed
+6,49,3,17-02-2025,151,Credit Card,Cancelled
+7,8,6,03-01-2025,779,Cash,Completed
+8,37,2,31-01-2025,325,Debit Card,Completed
+9,35,3,08-04-2025,412,Debit Card,Completed
+10,34,10,03-02-2025,1016,Cash,Completed
+11,20,7,02-04-2025,914,Debit Card,Cancelled
+12,16,4,16-01-2025,281,Credit Card,Completed
+13,36,4,17-03-2025,601,UPI,Completed
+14,41,1,01-04-2025,618,UPI,Completed
+15,22,2,21-04-2025,637,Credit Card,Cancelled
+16,35,3,28-01-2025,1118,Cash,Cancelled
+17,27,4,14-04-2025,343,UPI,Cancelled
+18,28,7,15-02-2025,1106,UPI,Completed
+19,26,6,08-01-2025,373,Cash,Completed
+20,35,8,25-01-2025,437,Debit Card,Completed
+21,30,4,05-02-2025,304,Debit Card,Completed
+22,42,9,07-01-2025,180,UPI,Completed
+23,27,8,22-01-2025,1135,Cash,Cancelled
+24,4,3,26-04-2025,926,UPI,Cancelled
+25,30,5,03-02-2025,1016,Debit Card,Completed
+26,19,4,25-01-2025,269,UPI,Cancelled
+27,4,10,08-01-2025,1126,Cash,Completed
+28,6,3,07-03-2025,290,UPI,Completed
+29,8,10,21-02-2025,654,UPI,Completed
+30,43,10,23-02-2025,797,Credit Card,Completed
+31,46,6,27-03-2025,638,Credit Card,Cancelled
+32,43,5,17-01-2025,1086,Credit Card,Completed
+33,30,10,02-01-2025,354,UPI,Completed
+34,17,3,06-03-2025,864,UPI,Completed
+35,19,3,17-02-2025,1047,Credit Card,Completed
+36,36,5,27-03-2025,362,Cash,Cancelled
+37,7,9,15-01-2025,468,Credit Card,Cancelled
+38,14,6,19-03-2025,566,Credit Card,Cancelled
+39,4,2,02-02-2025,1017,Credit Card,Completed
+40,22,3,01-01-2025,686,Cash,Cancelled
+41,46,7,12-03-2025,169,UPI,Completed
+42,45,3,01-05-2025,223,Credit Card,Completed
+43,9,1,25-02-2025,781,Credit Card,Completed
+44,23,4,26-04-2025,661,UPI,Cancelled
+45,36,7,10-04-2025,466,Cash,Completed
+46,12,7,13-04-2025,200,Cash,Cancelled
+47,27,4,11-04-2025,696,Cash,Completed
+48,3,8,18-02-2025,605,Cash,Cancelled
+49,20,4,14-02-2025,606,UPI,Completed
+50,22,5,21-02-2025,292,Credit Card,Cancelled
+51,33,7,24-03-2025,828,UPI,Completed
+52,17,3,23-04-2025,693,UPI,Completed
+53,28,6,18-03-2025,792,Debit Card,Completed
+54,37,4,19-02-2025,671,UPI,Cancelled
+55,34,9,01-01-2025,553,Credit Card,Cancelled
+56,43,6,09-01-2025,792,UPI,Cancelled
+57,20,7,06-03-2025,818,Debit Card,Cancelled
+58,9,4,12-03-2025,1011,Debit Card,Completed
+59,37,5,20-03-2025,981,UPI,Cancelled
+60,14,7,06-02-2025,809,Debit Card,Cancelled
+61,44,4,26-02-2025,1196,Debit Card,Completed
+62,6,5,26-03-2025,836,UPI,Completed
+63,20,4,28-03-2025,557,Cash,Completed
+64,16,8,06-01-2025,299,Debit Card,Cancelled
+65,41,10,24-04-2025,548,Debit Card,Cancelled
+66,16,3,21-02-2025,161,UPI,Cancelled
+67,12,9,29-01-2025,1101,UPI,Completed
+68,8,8,28-04-2025,423,Debit Card,Cancelled
+69,29,10,07-04-2025,1183,Debit Card,Cancelled
+70,11,8,25-04-2025,1071,Credit Card,Completed
+71,41,5,18-04-2025,1142,Cash,Cancelled
+72,5,5,26-02-2025,630,Credit Card,Cancelled
+73,35,2,10-02-2025,433,Cash,Completed
+74,45,3,19-02-2025,588,UPI,Cancelled
+75,22,9,22-02-2025,1104,Debit Card,Completed
+76,27,7,27-01-2025,190,Debit Card,Cancelled
+77,23,5,01-01-2025,948,Debit Card,Completed
+78,15,5,04-03-2025,1042,Debit Card,Completed
+79,22,7,19-02-2025,488,Debit Card,Completed
+80,35,1,21-03-2025,956,UPI,Completed
+81,28,3,24-03-2025,1095,Cash,Completed
+82,25,6,03-02-2025,583,Debit Card,Cancelled
+83,49,7,13-02-2025,719,Debit Card,Cancelled
+84,6,8,17-04-2025,189,UPI,Cancelled
+85,42,2,29-01-2025,232,UPI,Completed
+86,2,10,26-01-2025,462,Cash,Completed
+87,43,2,02-03-2025,596,Debit Card,Cancelled
+88,24,3,09-04-2025,384,Cash,Cancelled
+89,38,1,14-01-2025,788,Debit Card,Cancelled
+90,46,4,01-05-2025,305,Cash,Completed
+91,50,5,31-03-2025,397,UPI,Cancelled
+92,28,6,10-03-2025,291,Credit Card,Completed
+93,27,8,19-04-2025,366,Debit Card,Cancelled
+94,30,3,23-03-2025,1041,Cash,Cancelled
+95,35,8,20-03-2025,1102,Debit Card,Cancelled
+96,16,2,11-02-2025,721,Debit Card,Completed
+97,30,10,07-04-2025,926,Credit Card,Completed
+98,21,3,05-03-2025,1148,Cash,Cancelled
+99,17,6,13-04-2025,722,Credit Card,Completed
+100,13,2,08-03-2025,644,Debit Card,Cancelled
+101,49,4,13-03-2025,1125,Debit Card,Cancelled
+102,2,2,12-04-2025,752,Cash,Cancelled
+103,16,5,30-03-2025,905,Debit Card,Cancelled
+104,48,9,24-02-2025,827,Credit Card,Cancelled
+105,20,5,04-02-2025,622,UPI,Completed
+106,8,9,10-02-2025,529,Cash,Completed
+107,31,5,05-04-2025,729,UPI,Completed
+108,15,6,07-02-2025,517,Credit Card,Completed
+109,35,3,01-04-2025,711,UPI,Completed
+110,19,3,12-03-2025,1155,UPI,Completed
+111,19,8,15-03-2025,1130,Debit Card,Cancelled
+112,4,5,24-01-2025,1128,UPI,Completed
+113,32,2,21-02-2025,259,Cash,Completed
+114,37,5,14-04-2025,324,Cash,Completed
+115,49,7,13-03-2025,612,Debit Card,Cancelled
+116,29,5,27-04-2025,1028,Credit Card,Completed
+117,48,2,20-03-2025,575,Cash,Cancelled
+118,6,3,26-03-2025,641,Cash,Completed
+119,1,7,21-01-2025,1072,Debit Card,Cancelled
+120,15,5,05-01-2025,729,Debit Card,Completed
+121,15,5,29-03-2025,555,Debit Card,Completed
+122,15,3,11-03-2025,694,Cash,Completed
+123,11,5,08-01-2025,741,Debit Card,Completed
+124,45,5,01-03-2025,974,Credit Card,Cancelled
+125,6,10,26-02-2025,231,Debit Card,Cancelled
+126,17,1,19-03-2025,337,Cash,Completed
+127,44,5,08-04-2025,232,Cash,Cancelled
+128,42,8,08-03-2025,719,Cash,Cancelled
+129,32,2,23-03-2025,1112,Credit Card,Cancelled
+130,21,2,12-02-2025,479,Credit Card,Cancelled
+131,32,5,30-03-2025,970,UPI,Cancelled
+132,21,5,12-01-2025,812,UPI,Cancelled
+133,33,1,21-04-2025,1096,Debit Card,Completed
+134,34,6,25-01-2025,1170,Debit Card,Completed
+135,18,9,27-01-2025,418,Credit Card,Cancelled
+136,45,8,23-04-2025,398,UPI,Completed
+137,11,5,01-04-2025,178,Debit Card,Completed
+138,8,8,29-01-2025,390,Cash,Cancelled
+139,46,5,30-04-2025,1192,Credit Card,Cancelled
+140,31,8,17-04-2025,649,Debit Card,Completed
+141,13,10,19-02-2025,1190,Cash,Completed
+142,50,7,05-02-2025,846,Credit Card,Completed
+143,47,5,06-02-2025,1152,Cash,Cancelled
+144,31,6,10-03-2025,830,Debit Card,Cancelled
+145,21,4,30-04-2025,639,Debit Card,Completed
+146,50,7,20-04-2025,239,Credit Card,Cancelled
+147,25,7,01-04-2025,461,Debit Card,Completed
+148,33,10,17-01-2025,829,UPI,Cancelled
+149,34,8,13-01-2025,181,Cash,Cancelled
+150,42,3,22-04-2025,303,Debit Card,Cancelled
+151,40,7,13-02-2025,314,Credit Card,Cancelled
+152,41,8,10-02-2025,223,UPI,Completed
+153,44,5,22-03-2025,615,UPI,Cancelled
+154,49,2,13-01-2025,1058,Cash,Cancelled
+155,2,1,26-04-2025,814,UPI,Cancelled
+156,24,7,15-02-2025,448,Cash,Cancelled
+157,44,3,14-03-2025,498,Cash,Completed
+158,25,10,20-03-2025,643,Debit Card,Completed
+159,30,5,30-01-2025,1091,Credit Card,Completed
+160,30,5,26-04-2025,473,UPI,Cancelled
+161,23,10,01-05-2025,762,Debit Card,Cancelled
+162,20,4,28-02-2025,937,Debit Card,Completed
+163,25,10,31-01-2025,885,Credit Card,Cancelled
+164,43,7,03-01-2025,712,UPI,Completed
+165,39,8,27-04-2025,736,Cash,Cancelled
+166,41,4,29-01-2025,663,Cash,Completed
+167,41,1,26-04-2025,782,Debit Card,Completed
+168,24,3,16-03-2025,334,Credit Card,Cancelled
+169,27,3,06-04-2025,561,Cash,Cancelled
+170,33,5,09-03-2025,486,Credit Card,Cancelled
+171,19,6,14-04-2025,385,Debit Card,Completed
+172,49,4,19-01-2025,963,Credit Card,Completed
+173,26,1,12-04-2025,691,UPI,Cancelled
+174,44,5,17-02-2025,930,Credit Card,Completed
+175,15,8,28-03-2025,201,Credit Card,Completed
+176,5,8,24-03-2025,768,Debit Card,Completed
+177,3,1,18-01-2025,773,Debit Card,Completed
+178,16,9,13-01-2025,427,Debit Card,Cancelled
+179,43,9,17-02-2025,1008,Cash,Cancelled
+180,7,8,25-03-2025,985,Credit Card,Completed
+181,24,4,30-03-2025,1058,Debit Card,Completed
+182,24,2,20-04-2025,902,Credit Card,Completed
+183,18,4,20-02-2025,400,Debit Card,Completed
+184,14,10,26-03-2025,193,UPI,Cancelled
+185,9,10,01-02-2025,570,UPI,Completed
+186,14,4,17-03-2025,822,Cash,Completed
+187,10,3,05-02-2025,663,Cash,Completed
+188,2,3,26-03-2025,180,Credit Card,Completed
+189,21,1,17-03-2025,506,Credit Card,Completed
+190,48,7,17-01-2025,382,UPI,Cancelled
+191,50,6,27-02-2025,373,Debit Card,Completed
+192,3,9,20-03-2025,767,Debit Card,Completed
+193,31,7,08-01-2025,1023,UPI,Cancelled
+194,29,2,02-04-2025,315,Credit Card,Completed
+195,9,5,09-01-2025,815,Debit Card,Cancelled
+196,33,10,28-02-2025,1031,UPI,Completed
+197,42,9,20-04-2025,590,Debit Card,Cancelled
+198,15,7,24-04-2025,844,Debit Card,Cancelled
+199,47,2,23-02-2025,790,Debit Card,Cancelled
+200,17,6,27-03-2025,462,Debit Card,Completed
